@@ -21,7 +21,7 @@ main()
  b=strcmp("abcd",chr);
  if(b==0)
  {
-    printf("Checking the pin......\n");
+    printf("Checking pin......\n");
     Sleep(3000);
     printf("Congo!! your pin is correct\n");
  }
